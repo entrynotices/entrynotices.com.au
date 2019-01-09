@@ -26,11 +26,11 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-full-width-pics.git"
     },
     "dependencies": {
-        "bootstrap": "4.1.1",
+        "bootstrap": "4.1.2",
         "jquery": "3.3.1"
     },
     "devDependencies": {
         "browser-sync": "^2.26.3",
-        "gulp": "^3.9.1"
+        "gulp": "^4.0.0"
     }
 }
